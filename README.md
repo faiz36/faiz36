@@ -6,7 +6,7 @@
 
 <p align="center"> I Interested In this </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Kotlin-1AA2D4?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Java Script-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Kotlin-1AA2D4?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Java Script-ffb13b?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C++-005a9c?style=flat-square&logo=C%2B%2B&logoColor=white"/></p>
 
 
 <h3 align="center"> ✨Me✨  </h3>
