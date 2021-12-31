@@ -11,7 +11,7 @@
 
 <h3 align="center"> ✨Me✨  </h3>
 
-<p align="center"> <a href="https://twitch.tv/faiz36_"><img src="https://img.shields.io/badge/Twitch-8f43ff?style=flat-square&logo=Twitch&logoColor=white"/> <a href="https://discord.gg/sNTgZTXxrs"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/> </p>
+<p align="center"> <a href="https://twitch.tv/faiz36_"><img src="https://img.shields.io/badge/Twitch-8f43ff?style=flat-square&logo=Twitch&logoColor=white"/> <a href="https://discord.gg/sNTgZTXxrs"><img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=Discord&logoColor=white"/> <a href="https://steamcommunity.com/id/faiz36_"><img src="https://img.shields.io/badge/Steam-06183a?style=flat-square&logo=Steam&logoColor=white"/> </p>
 
 <div align="center" style="text-align:center">
   
