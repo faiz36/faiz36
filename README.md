@@ -15,7 +15,7 @@
 
 <div align="center" style="text-align:center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiz36&show_icons=true&locale=kr) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiz36&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz36&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   </div>
