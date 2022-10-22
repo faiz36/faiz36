@@ -21,3 +21,9 @@
   </div>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
+2. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
+3. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
+4. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
+5. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
+<!--RECENT_ACTIVITY:end-->
