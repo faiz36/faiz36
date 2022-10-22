@@ -20,10 +20,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz36&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#392](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues/392) in [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
-2. 🗣 Commented on [#392](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues/392) in [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
-3. 🗣 Commented on [#392](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues/392) in [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
-4. 🗣 Commented on [#392](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues/392) in [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
-5. 🗣 Commented on [#392](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues/392) in [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
