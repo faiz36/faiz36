@@ -22,6 +22,8 @@
 
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
+<!--RECENT_ACTIVITY:last_update-->
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [faiz36/HOYONG](https://github.com/faiz36/HOYONG)
 2. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
