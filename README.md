@@ -20,6 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiz36&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
+<h3 align="center"> ⚡️Recent Activity⚡️ </h3>
+
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [faiz36/HOYONG](https://github.com/faiz36/HOYONG)
 2. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
