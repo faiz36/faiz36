@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👋Hi there!👋 </h3>
 
-<p align="center"> I'm studying at Solbat Middle School </p>
+<p align="center"> I'm studying at Solat Middle School </p>
 
 <p align="center"> I Interested In this </p>
 
