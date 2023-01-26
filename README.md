@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 25th, 2023, 11:36:57 PM
+Last Updated: Thursday, January 26th, 2023, 1:21:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
-2. 💬 Commented on [#121](https://github.com/monun-docs/monun-docs/issues/121#issuecomment-1403157090) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
-3. 💬 Commented on [#121](https://github.com/monun-docs/monun-docs/issues/121#issuecomment-1403155873) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
-4. 📔 Created new repository [faiz36/ark](https://github.com/faiz36/ark)
-5. ❗️ Opened issue [#121](https://github.com/monun-docs/monun-docs/issues/121) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
+1. ❗️ Opened issue [#122](https://github.com/monun-docs/monun-docs/issues/122) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
+2. ✔️ Closed issue [#121](https://github.com/monun-docs/monun-docs/issues/121) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
+3. ⭐ Starred [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
+4. 💬 Commented on [#121](https://github.com/monun-docs/monun-docs/issues/121#issuecomment-1403157090) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
+5. 💬 Commented on [#121](https://github.com/monun-docs/monun-docs/issues/121#issuecomment-1403155873) in [monun-docs/monun-docs](https://github.com/monun-docs/monun-docs)
 <!--RECENT_ACTIVITY:end-->
