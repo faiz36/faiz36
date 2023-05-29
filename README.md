@@ -23,7 +23,7 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 28th, 2023, 11:36:27 PM
+Last Updated: Monday, May 29th, 2023, 1:20:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -31,5 +31,4 @@ Last Updated: Sunday, May 28th, 2023, 11:36:27 PM
 2. ⬆️ Pushed 12 commit(s) to [faiz36/lang-box](https://github.com/faiz36/lang-box)
 3. ⭐ Starred [Bruce0203/bs_meal_1nfo](https://github.com/Bruce0203/bs_meal_1nfo)
 4. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36](https://github.com/faiz36/faiz36)
-5. ⭐ Starred [faiz36/HOYONG](https://github.com/faiz36/HOYONG)
 <!--RECENT_ACTIVITY:end-->
