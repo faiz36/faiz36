@@ -23,9 +23,11 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 6th, 2023, 2:36:57 PM
+Last Updated: Wednesday, December 6th, 2023, 3:16:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36.github.io](https://github.com/faiz36/faiz36.github.io)
+1. ⭐ Starred [PojavLauncherTeam/PojavLauncher_iOS](https://github.com/PojavLauncherTeam/PojavLauncher_iOS)
+2. ⭐ Starred [SideStore/SideStore](https://github.com/SideStore/SideStore)
+3. ⬆️ Pushed 1 commit(s) to [faiz36/faiz36.github.io](https://github.com/faiz36/faiz36.github.io)
 <!--RECENT_ACTIVITY:end-->
