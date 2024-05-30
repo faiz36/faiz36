@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 30th, 2024, 1:36:29 PM
+Last Updated: Thursday, May 30th, 2024, 2:16:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mojang/brigadier](https://github.com/Mojang/brigadier)
-2. ⬆️ Pushed 39 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
-3. ⭐ Starred [eungyolee/everyday-commit](https://github.com/eungyolee/everyday-commit)
-4. ⬆️ Pushed 104 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
-5. ⬆️ Pushed 6 commit(s) to [faiz36/lang-box](https://github.com/faiz36/lang-box)
+1. ⭐ Starred [crizin/korean-romanizer](https://github.com/crizin/korean-romanizer)
+2. ⭐ Starred [Mojang/brigadier](https://github.com/Mojang/brigadier)
+3. ⬆️ Pushed 39 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
+4. ⭐ Starred [eungyolee/everyday-commit](https://github.com/eungyolee/everyday-commit)
+5. ⬆️ Pushed 104 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
 <!--RECENT_ACTIVITY:end-->
