@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 28th, 2024, 1:17:57 PM
+Last Updated: Friday, June 28th, 2024, 1:36:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 23 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
-2. ⬆️ Pushed 16 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
-3. ⬆️ Pushed 110 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
-4. ⭐ Starred [crizin/korean-romanizer](https://github.com/crizin/korean-romanizer)
-5. ⭐ Starred [Mojang/brigadier](https://github.com/Mojang/brigadier)
+1. ⬆️ Pushed 21 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
+2. ⬆️ Pushed 23 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
+3. ⬆️ Pushed 16 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
+4. ⬆️ Pushed 110 commit(s) to [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced)
+5. ⭐ Starred [crizin/korean-romanizer](https://github.com/crizin/korean-romanizer)
 <!--RECENT_ACTIVITY:end-->
