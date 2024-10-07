@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 6th, 2024, 11:38:59 PM
+Last Updated: Monday, October 7th, 2024, 1:36:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lightly-toasted/melontop2spotify](https://github.com/lightly-toasted/melontop2spotify)
-2. ⬆️ Pushed 1 commit(s) to [faiz36/revoltios](https://github.com/faiz36/revoltios)
+1. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+2. ⭐ Starred [lightly-toasted/melontop2spotify](https://github.com/lightly-toasted/melontop2spotify)
 3. ⬆️ Pushed 1 commit(s) to [faiz36/revoltios](https://github.com/faiz36/revoltios)
-4. 🔱 Forked [faiz36/revoltios](https://github.com/faiz36/revoltios) from [revoltchat/ios](https://github.com/revoltchat/ios)
-5. ⭐ Starred [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+4. ⬆️ Pushed 1 commit(s) to [faiz36/revoltios](https://github.com/faiz36/revoltios)
+5. 🔱 Forked [faiz36/revoltios](https://github.com/faiz36/revoltios) from [revoltchat/ios](https://github.com/revoltchat/ios)
 <!--RECENT_ACTIVITY:end-->
