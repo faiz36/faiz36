@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 23rd, 2024, 3:24:20 AM
+Last Updated: Wednesday, October 23rd, 2024, 3:43:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yellowstrawberrys/ObjectExpress](https://github.com/Yellowstrawberrys/ObjectExpress)
-2. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)
-3. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
-4. ⭐ Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-5. ⭐ Starred [lightly-toasted/melontop2spotify](https://github.com/lightly-toasted/melontop2spotify)
+1. ⭐ Starred [utilForever/2024-KU-Computer-Graphics](https://github.com/utilForever/2024-KU-Computer-Graphics)
+2. ⭐ Starred [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
+3. ⭐ Starred [Yellowstrawberrys/ObjectExpress](https://github.com/Yellowstrawberrys/ObjectExpress)
+4. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)
+5. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
 <!--RECENT_ACTIVITY:end-->
