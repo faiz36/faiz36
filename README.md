@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&section=header&text=%20faiz%20&color=0:7c4497,100:dc2632&textBg=true&fontColor=FFFFFF)
+<h align="center">![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=faiz&section=header&reversal=false&animation=fadeIn) </h>
 
 <h3 align="center"> 👋Hi there!👋 </h3>
 
