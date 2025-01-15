@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 15th, 2025, 11:37:03 AM
+Last Updated: Wednesday, January 15th, 2025, 12:36:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl)
-2. ⭐ Starred [ntop/ntopng](https://github.com/ntop/ntopng)
-3. ⬆️ Pushed 2 commit(s) to [faiz36/lang-box](https://github.com/faiz36/lang-box)
-4. ⭐ Starred [pelican-dev/panel](https://github.com/pelican-dev/panel)
-5. ⭐ Starred [eungyolee/2026-countdown](https://github.com/eungyolee/2026-countdown)
+1. ⭐ Starred [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)
+2. ⭐ Starred [lucko/spark](https://github.com/lucko/spark)
+3. ⭐ Starred [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl)
+4. ⭐ Starred [ntop/ntopng](https://github.com/ntop/ntopng)
+5. ⬆️ Pushed 2 commit(s) to [faiz36/lang-box](https://github.com/faiz36/lang-box)
 <!--RECENT_ACTIVITY:end-->
