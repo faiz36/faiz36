@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 21st, 2025, 12:37:09 PM
+Last Updated: Tuesday, January 21st, 2025, 1:23:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)
-2. ⭐ Starred [lucko/spark](https://github.com/lucko/spark)
-3. ⭐ Starred [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl)
-4. ⭐ Starred [ntop/ntopng](https://github.com/ntop/ntopng)
-5. ⬆️ Pushed 2 commit(s) to [faiz36/lang-box](https://github.com/faiz36/lang-box)
+1. ⭐ Starred [jpenilla/run-task](https://github.com/jpenilla/run-task)
+2. ⭐ Starred [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS)
+3. ⭐ Starred [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
+4. ⭐ Starred [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
+5. ⭐ Starred [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)
 <!--RECENT_ACTIVITY:end-->
