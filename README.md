@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 23rd, 2025, 3:19:51 PM
+Last Updated: Thursday, January 23rd, 2025, 3:39:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jpenilla/run-task](https://github.com/jpenilla/run-task)
-2. ⭐ Starred [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS)
-3. ⭐ Starred [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
-4. ⭐ Starred [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
-5. ⭐ Starred [ViaVersion/ViaFabric](https://github.com/ViaVersion/ViaFabric)
+1. ⭐ Starred [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver)
+2. ⭐ Starred [jpenilla/run-task](https://github.com/jpenilla/run-task)
+3. ⭐ Starred [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS)
+4. ⭐ Starred [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
+5. ⭐ Starred [Jexactyl/Jexactyl](https://github.com/Jexactyl/Jexactyl)
 <!--RECENT_ACTIVITY:end-->
