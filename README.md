@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 16th, 2025, 2:53:05 AM
+Last Updated: Sunday, February 16th, 2025, 3:24:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)
-2. 🔱 Forked [faiz36/Squeedometer](https://github.com/faiz36/Squeedometer) from [Edgeburn/Squeedometer](https://github.com/Edgeburn/Squeedometer)
-3. ⭐ Starred [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver)
-4. ⭐ Starred [jpenilla/run-task](https://github.com/jpenilla/run-task)
-5. ⭐ Starred [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS)
+1. ⭐ Starred [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
+2. ⭐ Starred [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)
+3. 🔱 Forked [faiz36/Squeedometer](https://github.com/faiz36/Squeedometer) from [Edgeburn/Squeedometer](https://github.com/Edgeburn/Squeedometer)
+4. ⭐ Starred [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver)
+5. ⭐ Starred [jpenilla/run-task](https://github.com/jpenilla/run-task)
 <!--RECENT_ACTIVITY:end-->
