@@ -23,7 +23,7 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 22nd, 2025, 4:22:45 AM
+Last Updated: Saturday, February 22nd, 2025, 4:41:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -31,5 +31,4 @@ Last Updated: Saturday, February 22nd, 2025, 4:22:45 AM
 2. ⭐ Starred [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
 3. ⭐ Starred [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper)
 4. 🔱 Forked [faiz36/Squeedometer](https://github.com/faiz36/Squeedometer) from [Edgeburn/Squeedometer](https://github.com/Edgeburn/Squeedometer)
-5. ⭐ Starred [VirtualDisplay/Virtual-Display-Driver](https://github.com/VirtualDisplay/Virtual-Display-Driver)
 <!--RECENT_ACTIVITY:end-->
