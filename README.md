@@ -23,12 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 13th, 2025, 4:44:07 AM
+Last Updated: Thursday, March 13th, 2025, 5:19:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-2. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
-3. 🔱 Forked [faiz36/uYouEnhanced](https://github.com/faiz36/uYouEnhanced) from [arichornlover/uYouEnhanced](https://github.com/arichornlover/uYouEnhanced)
-4. ⭐ Starred [khcrysalis/Feather](https://github.com/khcrysalis/Feather)
+1. ⭐ Starred [tltneon/lgsl](https://github.com/tltneon/lgsl)
+2. ⭐ Starred [R00tS3c/DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec)
+3. ⭐ Starred [Shynixn/MCCoroutine](https://github.com/Shynixn/MCCoroutine)
+4. ⭐ Starred [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+5. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
 <!--RECENT_ACTIVITY:end-->
