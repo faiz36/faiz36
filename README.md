@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 28th, 2025, 11:16:30 AM
+Last Updated: Friday, March 28th, 2025, 11:37:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tltneon/lgsl](https://github.com/tltneon/lgsl)
-2. ⭐ Starred [R00tS3c/DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec)
-3. ⭐ Starred [Shynixn/MCCoroutine](https://github.com/Shynixn/MCCoroutine)
-4. ⭐ Starred [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
-5. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+1. ⭐ Starred [0-Blu/StikJIT](https://github.com/0-Blu/StikJIT)
+2. ⭐ Starred [tltneon/lgsl](https://github.com/tltneon/lgsl)
+3. ⭐ Starred [R00tS3c/DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec)
+4. ⭐ Starred [Shynixn/MCCoroutine](https://github.com/Shynixn/MCCoroutine)
+5. ⭐ Starred [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
 <!--RECENT_ACTIVITY:end-->
