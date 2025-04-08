@@ -23,13 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 8th, 2025, 6:50:16 AM
+Last Updated: Tuesday, April 8th, 2025, 7:20:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)
-2. ⭐ Starred [0-Blu/StikJIT](https://github.com/0-Blu/StikJIT)
-3. ⭐ Starred [tltneon/lgsl](https://github.com/tltneon/lgsl)
-4. ⭐ Starred [R00tS3c/DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec)
-5. ⭐ Starred [Shynixn/MCCoroutine](https://github.com/Shynixn/MCCoroutine)
+1. ⭐ Starred [jkcoxson/JitStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB)
+2. ⭐ Starred [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)
+3. ⭐ Starred [0-Blu/StikJIT](https://github.com/0-Blu/StikJIT)
+4. ⭐ Starred [tltneon/lgsl](https://github.com/tltneon/lgsl)
+5. ⭐ Starred [R00tS3c/DDOS-RootSec](https://github.com/R00tS3c/DDOS-RootSec)
 <!--RECENT_ACTIVITY:end-->
