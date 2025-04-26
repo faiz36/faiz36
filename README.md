@@ -23,11 +23,10 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 26th, 2025, 10:18:21 PM
+Last Updated: Saturday, April 26th, 2025, 10:41:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jkcoxson/JitStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB)
 2. ⭐ Starred [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)
-3. ⭐ Starred [0-Blu/StikJIT](https://github.com/0-Blu/StikJIT)
 <!--RECENT_ACTIVITY:end-->
