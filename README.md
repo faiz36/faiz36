@@ -23,9 +23,10 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 7th, 2025, 5:18:59 PM
+Last Updated: Wednesday, May 7th, 2025, 5:41:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jkcoxson/JitStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB)
+1. ⭐ Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+2. ⭐ Starred [jkcoxson/JitStreamer-EB](https://github.com/jkcoxson/JitStreamer-EB)
 <!--RECENT_ACTIVITY:end-->
