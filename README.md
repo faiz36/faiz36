@@ -23,9 +23,13 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 21st, 2025, 7:19:47 AM
+Last Updated: Saturday, June 21st, 2025, 7:39:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qczone/switch2idea](https://github.com/qczone/switch2idea)
+1. ⭐ Starred [kyantech/Palmr](https://github.com/kyantech/Palmr)
+2. ⭐ Starred [victrme/Bonjourr](https://github.com/victrme/Bonjourr)
+3. ⭐ Starred [nimbusdotstorage/Nimbus](https://github.com/nimbusdotstorage/Nimbus)
+4. ⭐ Starred [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
+5. ⭐ Starred [qczone/switch2idea](https://github.com/qczone/switch2idea)
 <!--RECENT_ACTIVITY:end-->
