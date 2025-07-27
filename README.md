@@ -23,12 +23,10 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 7:40:51 AM
+Last Updated: Sunday, July 27th, 2025, 8:28:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [faiz36/YTLite](https://github.com/faiz36/YTLite) from [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
 2. ⭐ Starred [whoeevee/EeveeSpotify](https://github.com/whoeevee/EeveeSpotify)
-3. ⭐ Starred [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass)
-4. ⭐ Starred [tobychui/zoraxy](https://github.com/tobychui/zoraxy)
 <!--RECENT_ACTIVITY:end-->
