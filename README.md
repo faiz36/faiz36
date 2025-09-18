@@ -23,8 +23,9 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 18th, 2025, 3:40:22 PM
+Last Updated: Thursday, September 18th, 2025, 4:25:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [isc30/ryzen-gpu-passthrough-proxmox](https://github.com/isc30/ryzen-gpu-passthrough-proxmox)
 <!--RECENT_ACTIVITY:end-->
