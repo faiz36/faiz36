@@ -23,9 +23,11 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 6:30:45 AM
+Last Updated: Friday, September 26th, 2025, 7:19:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
+1. ⭐ Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+2. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+3. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
 <!--RECENT_ACTIVITY:end-->
