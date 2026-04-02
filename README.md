@@ -23,11 +23,11 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 1st, 2026, 11:36:53 PM
+Last Updated: Thursday, April 2nd, 2026, 2:25:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+1. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
 2. ⭐ Starred [svrforum/FileHatch](https://github.com/svrforum/FileHatch)
 3. ⭐ Starred [fuomag9/caddy-proxy-manager](https://github.com/fuomag9/caddy-proxy-manager)
 <!--RECENT_ACTIVITY:end-->
