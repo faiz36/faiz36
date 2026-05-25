@@ -23,10 +23,11 @@
 <h3 align="center"> ⚡️Recent Activity⚡️ </h3>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 25th, 2026, 4:44:52 AM
+Last Updated: Monday, May 25th, 2026, 8:56:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [faiz36/villager-reroll-papermc](https://github.com/faiz36/villager-reroll-papermc) from [vikrantchavan9/villager-reroll-papermc](https://github.com/vikrantchavan9/villager-reroll-papermc)
-2. ⭐ Starred [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher)
+1. ⭐ Starred [d-meloper/dmelopers-block-hud](https://github.com/d-meloper/dmelopers-block-hud)
+2. 🔱 Forked [faiz36/villager-reroll-papermc](https://github.com/faiz36/villager-reroll-papermc) from [vikrantchavan9/villager-reroll-papermc](https://github.com/vikrantchavan9/villager-reroll-papermc)
+3. ⭐ Starred [Moulberry/PandoraLauncher](https://github.com/Moulberry/PandoraLauncher)
 <!--RECENT_ACTIVITY:end-->
