@@ -2,7 +2,8 @@
 
 <h3 align="center"> 👋Hi there!👋 </h3>
 
-<p align="center"> I'm studying at Cheong Ju High School </p>
+<h2 align="center"> Moving to <a href="https://github.com/faiz316">here</a> </h2>
+<!-- <p align="center"> ~~I'm studying at Cheong Ju High School~~ </p> -->
 
 <p align="center"> I Interested In this </p>
 
